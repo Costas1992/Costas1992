@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kostas — a barber turneing in Machine Learning Developer
+# 👋 Hi, I’m Kostas — a barber turning in to Machine Learning Developer
 
 I’m passionate about merging **practical creativity** with **data-driven technology**.  
 Currently studying **Applied Machine Learning at Noroff**, I’m building projects that combine real-world intuition with AI, automation, and clean design.
