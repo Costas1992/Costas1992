@@ -6,7 +6,7 @@ Currently studying **Applied Machine Learning at Noroff**, I’m building projec
 ---
 
 ##  About Me
--  Self-employed **barber**, learning to combine craftsmanship with code  
+-  Self-employed **barber**, learning to combine work with code  
 -  Currently studying **Applied Machine Learning** at Noroff (Norway)  
 -  Fascinated by how AI understands text, emotion, and human behavior  
 -  Exploring **TensorFlow**, **Flask**, and **Data Engineering**
